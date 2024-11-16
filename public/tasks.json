@@ -1,0 +1,8 @@
+{
+    "tasks": [
+      { "id": 1, "name": "10 Tıklama Yap", "reward": 50, "requiredTaps": 10 },
+      { "id": 2, "name": "Arkadaş Davet Et", "reward": 100, "requiredInvites": 1 },
+      { "id": 3, "name": "50 Tıklama Yap", "reward": 200, "requiredTaps": 50 }
+    ]
+  }
+  
